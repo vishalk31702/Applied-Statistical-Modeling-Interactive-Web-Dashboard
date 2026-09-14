@@ -9,7 +9,7 @@ st.set_page_config(page_title="Statistical Analysis Dashboard",page_icon="📊",
 st.title("📊 Statistical Analysis Dashboard")
 
 datasets = {
-    "Medical Insurance Costs": r"C:\Users\visha\Desktop\Study\New folder\SM_Assignment\insurance.csv",
+    "Medical Insurance Costs": "data/insurance.csv",
     "Restaurant Tipping Behavior": "data/tips.csv",
     "California / Ames Housing Subset": "data/housing.csv"
 }
