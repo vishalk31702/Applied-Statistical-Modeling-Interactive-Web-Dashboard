@@ -204,21 +204,6 @@ The application uses:
 - Statsmodels for OLS regression and statistical diagnostics
 - Matplotlib for regression diagnostic plots
 
-## Important Note
-
-The current `demo.py` contains a local Windows path for the Medical Insurance dataset:
-
-```python
-"C:\Users\visha\Desktop\Study\New folder\SM_Assignment\insurance.csv"
-```
-
-For sharing, GitHub, or cloud deployment, change this to a relative project path such as:
-
-```python
-"data/insurance.csv"
-```
-
-Make sure the corresponding CSV file is placed inside the `data` folder.
 
 ## Statistical Significance
 
@@ -252,7 +237,3 @@ This project covers the following assignment components:
 - Jarque-Bera normality test
 - Variance Inflation Factor (VIF)
 - Interactive Streamlit interface
-
-## Author
-
-M.Sc. Data Science — Statistical Modeling with Python
