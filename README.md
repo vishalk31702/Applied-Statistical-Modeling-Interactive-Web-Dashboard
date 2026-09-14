@@ -2,6 +2,7 @@
 
 An interactive statistical analysis dashboard built with **Python** and **Streamlit** for Exploratory Data Analysis, Hypothesis Testing, and Statistical Modeling.
 
+Link to access: https://applied-statistical-modeling.streamlit.app/
 ## Features
 
 ### 1. Dataset Selection
